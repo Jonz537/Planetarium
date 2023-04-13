@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jonz_lib_1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jonz_lib_1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
